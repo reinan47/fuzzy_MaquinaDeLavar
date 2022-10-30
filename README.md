@@ -1,1 +1,1 @@
-# fuzzy_MaquinaDeLavar
+# Aprendizado de logica nebulosa (fuzzy)
